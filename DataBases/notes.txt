@@ -1,0 +1,11 @@
+manage.py: A command-line utility that lets you interact with this Django project in various ways.
+
+The inner mysite/ directory is the actual Python package for your project. Its name is the Python
+ package name you’ll need to use to import anything inside it (e.g. mysite.urls).
+
+mysite/__init__.py: An empty file that tells Python that this directory should be considered a Python package. 
+
+mysite/urls.py: The URL declarations for this Django project; a “table of contents” of your Django-powered site.
+
+mysite/asgi.py: An entry-point for ASGI-compatible web servers to serve your project. 
+
