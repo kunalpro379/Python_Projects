@@ -1,0 +1,6 @@
+from pdf2image import convert_from_path
+import os
+old_path =convert_from_path("input.pdf", poppler_path=r"C:\Users\kunal\poppler-23.11.0\Library\bin")
+
+for i in range(len(old_path)):
+    old_path[i].save("new"+str(i)+".jpg", "JPEG")
