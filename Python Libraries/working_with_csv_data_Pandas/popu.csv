@@ -1,0 +1,501 @@
+name,country,pop
+Madrid,Spain,3255944
+Sofia,Bulgaria,1152556
+Rotterdam,Netherlands,598199
+Tyumen,Russia,519119
+Petrozavodsk,Russia,265025
+Kropyvnytskyy,Ukraine,227413
+Favoriten,Austria,201882
+Naberezhnyye Chelny,Russia,509870
+Florence,Italy,349296
+Albacete,Spain,169716
+Reggio Calabria,Italy,169140
+Ljubljana,Slovenia,272220
+Groznyy,Russia,226100
+Valladolid,Spain,317864
+Radom,Poland,226794
+Ludwigshafen am Rhein,Germany,163196
+Osnabrueck,Germany,166462
+Berlin,Germany,3426354
+Bari,Italy,277387
+Almeria,Spain,188810
+Aberdeen,United Kingdom,196670
+Bonn,Germany,330579
+Tiraspol,Moldova,157000
+Wolverhampton,United Kingdom,252791
+Klaipeda,Lithuania,192307
+Praga Poludnie,Poland,179836
+Wigan,United Kingdom,175405
+Riga,Latvia,742572
+Orenburg,Russia,550204
+Nizhnevartovsk,Russia,244937
+Velikiy Novgorod,Russia,215062
+Bournemouth,United Kingdom,163600
+Slough,United Kingdom,163777
+Nuernberg,Germany,515543
+Glasgow,United Kingdom,591620
+Miass,Russia,167500
+Zelenograd,Russia,215727
+Lipetsk,Russia,515655
+Montpellier,France,248252
+Zurich,Switzerland,341730
+Kamyanske,Ukraine,233358
+Antwerpen,Belgium,459805
+Makhachkala,Russia,497959
+Blackpool,United Kingdom,239409
+Eixample,Spain,266477
+Torun,Poland,198613
+Munich,Germany,1260391
+Groningen,Netherlands,181194
+Luton,United Kingdom,258018
+Tula,Russia,468825
+Khabarovsk,Russia,579000
+Breda,Netherlands,167673
+Kamensk-Ural'skiy,Russia,182500
+Murmansk,Russia,319263
+Bratsk,Russia,256600
+Arad,Romania,169065
+Reading,United Kingdom,318014
+Novi Sad,Serbia,215400
+Petropavlovsk-Kamchatsky,Russia,187282
+Rostov-na-Donu,Russia,1074482
+Yuzhno-Sakhalinsk,Russia,176484
+Tambov,Russia,290933
+Trieste,Italy,187056
+Gdynia,Poland,244969
+Mostoles,Spain,206478
+Kurgan,Russia,343129
+Saint Petersburg,Russia,5028000
+Getafe,Spain,167164
+Amsterdam,Netherlands,741636
+Birmingham,United Kingdom,984333
+Saransk,Russia,303394
+Khoroshevo-Mnevniki,Russia,159000
+Turin,Italy,870456
+Eimsbuettel,Germany,251907
+Bialystok,Poland,291855
+Saarbruecken,Germany,181227
+Brest,Belarus,300715
+Bergen,Norway,213585
+Odessa,Ukraine,1013159
+Jerez de la Frontera,Spain,207532
+Gelsenkirchen,Germany,270028
+Yoshkar-Ola,Russia,279100
+Khmelnytskyi,Ukraine,271263
+Krasnoyarsk,Russia,927200
+Naples,Italy,959470
+Marseille,France,794811
+Armavir,Russia,199548
+Saint-Etienne,France,176280
+Vladikavkaz,Russia,317370
+Bryansk,Russia,427236
+Brussels,Belgium,1019022
+Zaragoza,Spain,674317
+Alicante,Spain,334757
+Surgut,Russia,300367
+Anderlecht,Belgium,160553
+Magnitogorsk,Russia,413351
+Szeged,Hungary,164883
+Stoke-on-Trent,United Kingdom,372775
+Karlsruhe,Germany,283799
+Stockholm,Sweden,1515017
+Granada,Spain,234325
+Warsaw,Poland,1702139
+Yekaterinburg,Russia,1349772
+Islington,United Kingdom,319143
+Bucharest,Romania,1877155
+Sterlitamak,Russia,267231
+Novocherkassk,Russia,166974
+Smolensk,Russia,320991
+Duesseldorf,Germany,573057
+Swindon,United Kingdom,185609
+Astrakhan,Russia,502533
+Cordoba,Spain,328428
+Braila,Romania,213569
+Split,Croatia,176314
+Oslo,Norway,580000
+Sector 2,Romania,345370
+Oberhausen,Germany,219176
+Dzerzhinsk,Russia,233126
+Mar'ino,Russia,243000
+Bochum,Germany,385729
+Severnyy,Russia,200000
+Podgorica,Montenegro,236852
+Doncaster,United Kingdom,158141
+Kazan,Russia,1104738
+Fuencarral-El Pardo,Spain,220085
+Chita,Russia,308500
+Birkenhead,United Kingdom,325264
+Rivne,Ukraine,255106
+Irkutsk,Russia,586695
+Brasov,Romania,276088
+Novorossiysk,Russia,241856
+Bologna,Italy,366133
+Brno,Czech Republic,369559
+Stavropol',Russia,363064
+Blagoveshchensk,Russia,221296
+Kremenchuk,Ukraine,220065
+Strasbourg,France,274845
+Cherepovets,Russia,315738
+Carabanchel,Spain,253678
+Ulan-Ude,Russia,360278
+Vologda,Russia,314900
+Modena,Italy,158886
+Novosibirsk,Russia,1419007
+Wuppertal,Germany,360797
+Olsztyn,Poland,171803
+Vitebsk,Belarus,342700
+Genoa,Italy,580223
+Harburg,Germany,202571
+Kyiv,Ukraine,2797553
+Dudley,United Kingdom,199059
+Volgograd,Russia,1011417
+Puente de Vallecas,Spain,244151
+Budapest,Hungary,1741041
+Southend-on-Sea,United Kingdom,295310
+Muelheim,Germany,170921
+Norwich,United Kingdom,213166
+Santa Cruz de Tenerife,Spain,222417
+Wandsbek,Germany,411422
+Terrassa,Spain,218535
+Brescia,Italy,184826
+Sector 6,Romania,367760
+Orsk,Russia,246836
+Debrecen,Hungary,204124
+Castello de la Plana,Spain,180005
+Burgos,Spain,178966
+Helsinki,Finland,558457
+Staryy Oskol,Russia,226977
+Peterborough,United Kingdom,163379
+Sector 5,Romania,271575
+Floridsdorf,Austria,162779
+Timisoara,Romania,315053
+Nottingham,United Kingdom,321500
+Hamburg-Nord,Germany,280000
+Mariupol,Ukraine,431859
+Kryvyy Rih,Ukraine,624579
+Portsmouth,United Kingdom,194150
+Gol'yanovo,Russia,158000
+Perm,Russia,982419
+Prokop'yevsk,Russia,219000
+Neue Neustadt,Germany,226851
+Mytishchi,Russia,160542
+Tirana,Albania,374801
+Kemerovo,Russia,477090
+Reims,France,196565
+San Sebastian,Spain,185357
+Nicosia,Cyprus,200452
+Aachen,Germany,265208
+Sant Marti,Spain,235719
+Oradea,Romania,206614
+Donetsk,Ukraine,1024700
+Toulon,France,168701
+Augsburg,Germany,259196
+Barcelona,Spain,1621537
+Rzeszow,Poland,158382
+Mansfield,United Kingdom,171958
+Ufa,Russia,1033338
+Vykhino-Zhulebino,Russia,216000
+Gent,Belgium,231493
+Rostock,Germany,198293
+Angarsk,Russia,243158
+Nizhniy Novgorod,Russia,1284164
+Gijon,Spain,277554
+Lyublino,Russia,172000
+Newcastle upon Tyne,United Kingdom,192382
+Nalchik,Russia,272800
+Newport,United Kingdom,306844
+Swansea,United Kingdom,300352
+Hrodna,Belarus,317365
+The Hague,Netherlands,474292
+Sevastopol,Ukraine,464349
+Kaluga,Russia,338978
+Chemnitz,Germany,247220
+Wiesbaden,Germany,272432
+Vasyl'evsky Ostrov,Russia,203058
+Poznan,Poland,570352
+Kaliningrad,Russia,434954
+Sutton,United Kingdom,187600
+Zhytomyr,Ukraine,263507
+Craiova,Romania,304142
+Marienthal,Germany,287101
+Kherson,Ukraine,289096
+Thessaloniki,Greece,354290
+London,United Kingdom,8961989
+Charleroi,Belgium,200132
+Alcala de Henares,Spain,204574
+Le Havre,France,185972
+Turku,Finland,175945
+Bristol,United Kingdom,617280
+Podolsk,Russia,179400
+Nis,Serbia,250000
+Oldenburg,Germany,159218
+Milton Keynes,United Kingdom,229941
+Amadora,Portugal,178858
+Prato,Italy,181820
+Vienna,Austria,1691468
+Dresden,Germany,486854
+Zenica,Bosnia and Herzegovina,164423
+Patra,Greece,168034
+Linz,Austria,204846
+Rubtsovsk,Russia,161065
+Sunderland,United Kingdom,335415
+Luebeck,Germany,212207
+Salamanca,Spain,155619
+Pamplona,Spain,198491
+Balakovo,Russia,199572
+Donaustadt,Austria,187007
+Tampere,Finland,202687
+Croydon,United Kingdom,173314
+Piraeus,Greece,163688
+Lyon,France,472317
+Ruse,Bulgaria,156238
+Kirov,Russia,457383
+Wroclaw,Poland,634893
+Minsk,Belarus,1742124
+Geneve,Switzerland,183981
+Sector 4,Romania,287828
+Cheboksary,Russia,446781
+Biysk,Russia,215430
+Ciudad Lineal,Spain,228171
+Varna,Bulgaria,312770
+Oviedo,Spain,224005
+Yakutsk,Russia,235600
+Braunschweig,Germany,244715
+Athens,Greece,664046
+Katowice,Poland,317316
+Krasnodar,Russia,649851
+Eindhoven,Netherlands,209620
+Dublin,Ireland,1024027
+Arhus,Denmark,237551
+Catania,Italy,290927
+Hagen,Germany,198972
+Bydgoszcz,Poland,366452
+Bexley,United Kingdom,228000
+Muenster,Germany,270184
+Cergy-Pontoise,France,183430
+Porto,Portugal,249633
+Hamm,Germany,178967
+Lisbon,Portugal,517802
+Vinnytsya,Ukraine,369839
+Mainz,Germany,184997
+Fuenlabrada,Spain,197836
+Orel,Russia,324200
+Lviv,Ukraine,717803
+Sochi,Russia,327608
+Vilnius,Lithuania,542366
+City of Westminster,United Kingdom,247614
+Murcia,Spain,436870
+Dortmund,Germany,588462
+Babruysk,Belarus,220517
+Tomsk,Russia,485519
+Burgas,Bulgaria,195966
+Centralniy,Russia,214625
+Sector 1,Romania,225453
+Poltava,Ukraine,288324
+Bacau,Romania,171396
+Southampton,United Kingdom,246201
+Zabrze,Poland,192177
+Lodz,Poland,768755
+Rybinsk,Russia,216724
+Pitesti,Romania,167669
+Skopje,North Macedonia,474889
+Pskov,Russia,201990
+Cluj-Napoca,Romania,316748
+Sector 3,Romania,385439
+Izhevsk,Russia,631038
+Chernivtsi,Ukraine,266533
+Grenoble,France,158552
+Cartagena,Spain,211996
+Valencia,Spain,814208
+Copenhagen,Denmark,1153615
+Shakhty,Russia,221312
+Iasi,Romania,318012
+Vladivostok,Russia,587022
+Mokotow,Poland,217683
+Chelyabinsk,Russia,1062919
+Bibirevo,Russia,159000
+Krasnogvargeisky,Russia,337091
+A Coruna,Spain,246056
+Tilburg,Netherlands,199613
+Admiralteisky,Russia,157897
+Abakan,Russia,167289
+Leipzig,Germany,504971
+Bratislava,Slovakia,423737
+Brent,United Kingdom,329100
+Zaporizhzhya,Ukraine,738728
+Pecs,Hungary,156649
+Liverpool,United Kingdom,864122
+Nizhny Tagil,Russia,381116
+Malmoe,Sweden,301706
+Espoo,Finland,256760
+Krefeld,Germany,237984
+Cork,Ireland,190384
+Hamburg-Mitte,Germany,233144
+Moscow,Russia,10381222
+Berezniki,Russia,167748
+Cherkasy,Ukraine,276360
+Coventry,United Kingdom,359262
+Manchester,United Kingdom,395515
+Leicester,United Kingdom,508916
+Toulouse,France,433055
+Oxford,United Kingdom,171380
+Bielsko-Biala,Poland,176515
+Kaunas,Lithuania,374643
+Solingen,Germany,164359
+Ternopil,Ukraine,221820
+Angers,France,168279
+Nijmegen,Netherlands,158732
+Hamburg,Germany,1739117
+Syktyvkar,Russia,230139
+Plymouth,United Kingdom,260203
+Archway,United Kingdom,215667
+Belgrade,Serbia,1273651
+Kosice,Slovakia,236563
+Altona,Germany,250192
+Prague,Czech Republic,1165581
+Barnaul,Russia,599579
+Rome,Italy,2318895
+Sumy,Ukraine,294456
+Bytom,Poland,189186
+Sants-Montjuic,Spain,183120
+Severodvinsk,Russia,194292
+Bila Tserkva,Ukraine,199163
+Nice,France,338620
+Plovdiv,Bulgaria,340494
+Verona,Italy,219103
+Krakow,Poland,755050
+Gdansk,Poland,461865
+Padova,Italy,203725
+Leganes,Spain,186066
+Ploiesti,Romania,228851
+Yasenevo,Russia,180000
+Ulyanovsk,Russia,640680
+Galati,Romania,294087
+Szczecin,Poland,407811
+Nou Barris,Spain,166310
+Walsall,United Kingdom,172141
+Las Palmas de Gran Canaria,Spain,381847
+Kostroma,Russia,277656
+Horlivka,Ukraine,278550
+Mahilyow,Belarus,369200
+Zlatoust,Russia,191366
+Khimki,Russia,239967
+Northampton,United Kingdom,215963
+Goeteborg,Sweden,572799
+Kassel,Germany,194501
+Yaroslavl,Russia,606730
+Sheffield,United Kingdom,685368
+L'Hospitalet de Llobregat,Spain,257038
+Gliwice,Poland,198835
+Messina,Italy,219948
+Nazran',Russia,164131
+Palma,Spain,401270
+Derby,United Kingdom,270468
+Czestochowa,Poland,248125
+Taranto,Italy,181082
+Ipswich,United Kingdom,178835
+Mykolayiv,Ukraine,483186
+Duisburg,Germany,504358
+Banja Luka,Bosnia and Herzegovina,221106
+Alcorcon,Spain,167967
+Homyel',Belarus,480951
+Koeln,Germany,963395
+Khabarovsk Vtoroy,Russia,578303
+Leeds,United Kingdom,455123
+Ivanovo,Russia,420839
+Tallinn,Estonia,394024
+Chisinau,Moldova,635994
+Kalininskiy,Russia,504641
+Chernihiv,Ukraine,307684
+Preston,United Kingdom,313332
+Malaga,Spain,568305
+Kiel,Germany,232758
+Hannover,Germany,515140
+Vigo,Spain,297332
+Makiivka,Ukraine,376610
+Volgodonsk,Russia,167731
+Constanta,Romania,303399
+Simferopol,Ukraine,336460
+Bradford,United Kingdom,299310
+Arkhangel'sk,Russia,356051
+Ussuriysk,Russia,157068
+Sevilla,Spain,703206
+Hortaleza,Spain,161661
+Vladimir,Russia,310024
+Omsk,Russia,1129281
+Komsomolsk-on-Amur,Russia,275908
+Luhansk,Ukraine,452000
+Basel,Switzerland,164488
+Utrecht,Netherlands,290529
+Paris,France,2138551
+Dnipro,Ukraine,998103
+Erfurt,Germany,203254
+Penza,Russia,512602
+Cardiff,United Kingdom,447287
+Magdeburg,Germany,229826
+Belfast,United Kingdom,274770
+Mannheim,Germany,307960
+Sosnowiec,Poland,227295
+Liege,Belgium,182597
+Kharkiv,Ukraine,1430885
+Sabadell,Spain,206493
+Bielefeld,Germany,331906
+Zagreb,Croatia,698966
+Salavat,Russia,159893
+Herne,Germany,172108
+Palermo,Italy,648260
+Sarajevo,Bosnia and Herzegovina,696731
+Samara,Russia,1134730
+Bordeaux,France,231844
+Vantaa,Finland,190058
+Kingston upon Hull,United Kingdom,314018
+Cambridge,United Kingdom,158434
+Tver,Russia,400212
+Santander,Spain,182700
+Milan,Italy,1236837
+Essen,Germany,593085
+Crawley,United Kingdom,180508
+Engels,Russia,196011
+Latina,Spain,256644
+Ivano-Frankivsk,Ukraine,236602
+Neukoelln,Germany,167248
+Graz,Austria,222326
+Badalona,Spain,219547
+Voronezh,Russia,848752
+Bilbao,Spain,354860
+Volzhskiy,Russia,323293
+Rennes,France,209375
+Gasteiz / Vitoria,Spain,235661
+Belgorod,Russia,345289
+Nantes,France,277269
+Edinburgh,United Kingdom,464990
+Freiburg,Germany,215966
+Halle (Saale),Germany,237865
+Bremen,Germany,546501
+Bochum-Hordel,Germany,380000
+Stuttgart,Germany,589793
+Tolyatti,Russia,702879
+Saratov,Russia,863725
+Kielce,Poland,208598
+San Blas-Canillejas,Spain,157367
+Miskolc,Hungary,172637
+Lutsk,Ukraine,213661
+Kursk,Russia,409431
+Warrington,United Kingdom,165456
+Moenchengladbach,Germany,261742
+Taganrog,Russia,279056
+Almere Stad,Netherlands,176432
+Syzran',Russia,189338
+Pilsen,Czech Republic,164180
+Nizhnekamsk,Russia,234297
+Lublin,Poland,360044
+Ostrava,Czech Republic,313088
+Leverkusen,Germany,162738
+Horta-Guinardo,Spain,168092
+Frankfurt am Main,Germany,650000
+Ryazan',Russia,520173
+Lille,France,228328
+Baranovichi,Belarus,168772
+Elche,Spain,230112
+Novokuznetsk,Russia,539616
