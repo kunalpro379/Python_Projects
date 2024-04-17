@@ -3,7 +3,7 @@ import os
 import telebot
 
 BOT_TOKEN = "6554382026:AAFOlcl-ZnDRedCjTrfVPhjQcRhqJqyWNxE"
-bot = telebot.TeleBot(BOT_TOKEN)
+bot = telebot.TeleBot(BOT_TOKEN,threaded=False)
 user_info = {}
 waiting_messages = defaultdict(list)
 
