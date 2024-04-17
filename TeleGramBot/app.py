@@ -1,12 +1,11 @@
 from flask import Flask
-import main  # Assuming main.py contains the code for your Telegram bot
-
+import main
 app = Flask(__name__)
 
 @app.route('/')
-def start_bot():
+def main():
     main.start_bot()
-    return 'Telegram bot started!'
+    return "Bot is running!"
 
 if __name__ == '__main__':
     app.run()
