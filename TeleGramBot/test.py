@@ -1,12 +1,17 @@
 
-BOT_TOKEN = "6718811553:AAGFpd81zVJ6uws92JatHNYJz5K5UD_YtME"
+import os
+from dotenv import load_dotenv
 import telebot
 from collections import deque
 
+# Load environment variables from .env file
+load_dotenv()
+
+# Read the bot token from the environment
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Create a bot instance
 bot = telebot.TeleBot(BOT_TOKEN)
-
 # Queue to store users waiting to be paired
 waiting_users_male = deque()
 waiting_users_female = deque()
