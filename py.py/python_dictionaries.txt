@@ -1,5 +1,0 @@
-dictionary={
-"a" : "kunal",
-"b": kunall,
-"c": "kunall"}
-print(dictionary)
